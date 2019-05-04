@@ -18,4 +18,8 @@ date: 2019-05-04
         onload="renderMathInElement(document.body);"></script>
   </head>
   ...
+  
+  katex.render("c = \\pm\\sqrt{a^2 + b^2}", element, {
+    throwOnError: false
+});
 </html>
