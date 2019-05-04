@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Introductory Post"
+title: "Introduction"
 date: 2019-05-04
 ---
 
