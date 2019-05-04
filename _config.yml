@@ -1,2 +1,3 @@
 name: Lim Zhan Feng
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
